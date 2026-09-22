@@ -6,3 +6,6 @@ node_modules
 uploads
 prisma/schema-prisma.txt
 prisma/schema.prisma.txt
+
+# macOS Finder metadata
+.DS_Store
